@@ -32,7 +32,12 @@
 
 ## 🌟 **Proyectos Destacados** 🌟
 
-Próximamente... ¡Estoy trabajando en cosas emocionantes! 🚀
+### 1️⃣ **[libft](https://github.com/t-of-typer/libft)**
+- 📜 Implementación propia de funciones estándar de la biblioteca de C.
+- 💻 Desarrollado como parte de un proyecto de la **Escuela 42**, con el objetivo de mejorar el conocimiento de las funciones fundamentales de C y la gestión de memoria.
+- 🛠️ **Tecnología**: C.
+
+### 2️⃣ **Próximamente... ¡Estoy trabajando en cosas emocionantes!** 🚀
 
 ---
 
